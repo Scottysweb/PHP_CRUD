@@ -88,8 +88,9 @@ $(document).ready(function() {
     $city = $_POST['city'];
     $street = $_POST['street'];
     $province = $_POST['province'];
-    echo "<iframe width='600' height='450' frameborder='0' style='border:0' src='https://www.google.com/maps/embed/v1/search?q=".$street."%2C%20".$city."%2C%20".$province."%2C%20Canada&key=AIzaSyCTmDpM2MJMdzDasWW5t3aMQqgnHs0ot1c' allowfullscreen></iframe>";
+    echo "Your_Google_Maps_API_Here";
   }
   ?>
 </body>
 </html>
+
