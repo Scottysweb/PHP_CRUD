@@ -1,6 +1,7 @@
 <?PHP
 $servername = "localhost";
-$username1 = "tinika14_garage";
-$password1 = "Rikkiwithme14";
-$dbname = "tinika14_garagesales";
+$username1 = "your_username";
+$password1 = "your_password";
+$dbname = "your_Database_name";
+
 ?>
